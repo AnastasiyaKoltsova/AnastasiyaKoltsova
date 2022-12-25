@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnastasiyaKoltsova
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning HTML, CSS & JavaScript.
 
 <!---
 AnastasiyaKoltsova/AnastasiyaKoltsova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
