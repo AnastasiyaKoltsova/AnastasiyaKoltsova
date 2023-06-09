@@ -25,7 +25,7 @@ Ask me about tech, literature and art.
 [![Figma][Figma-badge]][Figma-url]
 
 ## My experience
-While taking a course on front-end development in Hexlet, I've done four training projects:
+While taking a course on front-end development in Hexlet, I've done two training projects:
 
 - [Brain Games](https://github.com/AnastasiyaKoltsova/frontend-bootcamp-project-46) – a set of simple console math games
 - [Gendiff](https://github.com/AnastasiyaKoltsova/js-starter-project-44) – CLI utility for comparing JSON and YAML configuration files
