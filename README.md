@@ -25,12 +25,20 @@ Ask me about tech, literature and art.
 [![Figma][Figma-badge]][Figma-url]
 
 ## My experience
+
+I have done several independent pet projects:
+- The online games ['Pig'](https://github.com/AnastasiyaKoltsova/The_Game_Pig) and ['Guess the Number'](https://github.com/AnastasiyaKoltsova/guess_the_number) on vanilla JS,
+- [Pomodoro timer](https://github.com/AnastasiyaKoltsova/pomodoro)
+
+While taking a course on front-end development in ITGIRLSCHOOL, I've done a group training project:
+- [Calorie tracker](https://github.com/AnastasiyaKoltsova/calorie_tracker) – сalorie counting and food diary app using a public API
+
 While taking a course on front-end development in Hexlet, I've done two training projects:
 
 - [Brain Games](https://github.com/AnastasiyaKoltsova/frontend-bootcamp-project-46) – a set of simple console math games
 - [Gendiff](https://github.com/AnastasiyaKoltsova/js-starter-project-44) – CLI utility for comparing JSON and YAML configuration files
 
-<!-- For more details on my experience, see my CV. -->
+For more details on my experience, see [my CV](https://github.com/AnastasiyaKoltsova/my-CV).
 
 ## Profile statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaKoltsova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,9 +70,6 @@ While taking a course on front-end development in Hexlet, I've done two training
 
 [Figma-badge]: https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma
 [Figma-url]: https://www.figma.com/
-
-<!-- [Telegram-badge]: https://img.shields.io/badge/inspired_to_code-ffffff?style=flat-square&logo=Telegram
-[Telegram-url]: https://t.me/inspired_to_code -->
 
 [Telegram-badge]: https://img.shields.io/badge/Anastasia_Koltsova-ffffff?style=flat-square&logo=Telegram
 [Telegram-url]: https://t.me/Anastasia_Koltsova
