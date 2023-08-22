@@ -35,8 +35,8 @@ While taking a course on front-end development in ITGIRLSCHOOL, I've done a grou
 
 While taking a course on front-end development in Hexlet, I've done two training projects:
 
-- [Brain Games](https://github.com/AnastasiyaKoltsova/frontend-bootcamp-project-46) – a set of simple console math games
-- [Gendiff](https://github.com/AnastasiyaKoltsova/js-starter-project-44) – CLI utility for comparing JSON and YAML configuration files
+- [Brain Games](https://github.com/AnastasiyaKoltsova/js-starter-project-44) – a set of simple console math games
+- [Gendiff](https://github.com/AnastasiyaKoltsova/frontend-bootcamp-project-46) – CLI utility for comparing JSON and YAML configuration files
 
 For more details on my experience, see [my CV](https://github.com/AnastasiyaKoltsova/my-CV).
 
