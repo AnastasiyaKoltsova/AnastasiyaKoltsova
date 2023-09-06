@@ -41,7 +41,7 @@ While taking a course on front-end development in Hexlet, I've done two training
 For more details on my experience, see [my CV](https://github.com/AnastasiyaKoltsova/my-CV).
 
 ## Profile statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaKoltsova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiyaKoltsova&layout=compact)
 
 ## Contacts
 [![glacies][Telegram-badge]][Telegram-url]  
